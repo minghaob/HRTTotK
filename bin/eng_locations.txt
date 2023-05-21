@@ -1,315 +1,826 @@
-Abandoned North Mine
-Akh Va'quot Shrine
+Abandoned Eldin Mine
+Abandoned Gerudo Mine
+Abandoned Hateno Mine
+Abandoned Hebra Mine
+Abandoned Kakariko Mine
+Abandoned Kara Kara Mine
+Abandoned Lanayru Mine
+Abandoned Lurelin Mine
+Abandoned Tarrey Mine
+Aduon Lightroot
+Agaat Canyon Mine
+Agihi-ihcoj Lightroot
+Akinatanis Lightroot
 Akkala Ancient Tech Lab
 Akkala Bridge Ruins
 Akkala Citadel Ruins
+Akkala Citadel Ruins Cave
+Akkala Citadel Ruins Summit Cave
+Akkala House of Bones
 Akkala Parade Ground Ruins
 Akkala Span
-Akkala Tower
+Amakawis Lightroot
+Amo-ne Lightroot
+Ancient Altar Ruins
 Ancient Columns
+Ancient Columns Cave
+Ancient Observation Deck
+Ancient Prison Ruins
 Ancient Tree Stump
+Ancient Tree Stump Cave
+Ancient Underground Fortress
+Ancient Zora Waterworks
+Anedamimik Shrine
+A-nehi Lightroot
+Anonisik Lightroot
+Apapes Lightroot
+Apogek Shrine
+Applean Grove
 Aquame Bridge
+Aquame Lake Well
 Arbiter's Grounds
-Bareeda Naag Shrine
+Arusakam Lightroot
+Atun Valley Cave
+Bamitok Shrine
+Bedrock Bistro
 Big Twin Bridge
+Birida Lookout Chasm
+Blupee Burrow
+Bon Pond East Cave
 Boneyard Bridge
-Bosh Kala Shrine
+Bottomless Cave
+Bottomless Pond Well
+Bravery Island
 Bridge of Eldin
 Bridge of Hylia
+Brightcap Cave
+Bubinga Grove
+Busus Lightroot
+Byroad to Lanayru Wetlands
+Calora Lake Cave
+Camobatures Lightroot
+Canyon of Awakening Mine
+Cape Cales Cliffbase Cave
 Carok Bridge
+Carok Bridge Well
 Castle Town Prison
 Castle Town Watchtower
+Cave Under Zora's Domain
+Central Gerudo Cave
+Central Hyrule Sky Archipelago
 Central Square
-Central Tower
-Chaas Qeta Shrine
+Cephla Lake Cave
+Chasm Under Zora's Domain
+Chichim Shrine
+Cliff Bargainer Statue
 Coliseum Ruins
-Daag Chokah Shrine
-Dagah Keek Shrine
-Dah Hesho Shrine
-Dah Kaso Shrine
-Daka Tuss Shrine
-Dako Tah Shrine
-Daqa Koh Shrine
-Daqo Chisay Shrine
+Coliseum Ruins Cave
+Construct Factory
+Construction Site Cave
+Construction Site Well
+Corta Lake Cave
+Corvash Canyon Mine
+Courage Island
+Crenel Canyon Mine
+Crenel Hills Cave
+Crenel Peak Cave
+Cresia Pit Mine
+Cucco Hideaway
+Cugukaram Lightroot
+Cuho Canyon Mine
+Dalite Grove
+Daphnes Canyon Mine
+Daval Canyon Mine
+Death Mountain Chasm
+Death Mountain East Tunnel
+Death Mountain Foothill Cave
+Death Mountain West Site
+Death Mountain West Tunnel
+Deepback Bay Cave
+Deku Tree Chasm
+Deplian Badlands Cave
+Desert Coliseum
+Desert Rift
 Deya Village Ruins
+Deya Village Ruins East Well
+Deya Village Ruins North Well
+Deya Village Ruins South Well
+Deya Village Ruins Well
 Digdogg Suspension Bridge
-Dila Maag Shrine
 Dining Hall
-Divine Beast Vah Medoh
-Divine Beast Vah Naboris
-Divine Beast Vah Rudania
-Divine Beast Vah Ruta
 Docks
-Dow Na'eh Shrine
+Domizuin Shrine
+Dracozu Altar
 Dragon Bone Mire
+Dragonhead Island
+Drena Canyon Mine
+Drenan Highlands Chasm
+Dronoc's Pass Well
+Dueling Canyons Mine
+Dueling Peaks North Cave
+Dueling Peaks South Cave
 Dueling Peaks Stable
-Dueling Peaks Tower
-Dunba Taag Shrine
+Dueling Peaks Stable Well
+Dunsel Canyon Mine
 Eagus Bridge
+East Akkala Plains Chasm
 East Akkala Stable
+East Akkala Stable Well
+East Biron Snowshelf Cave
+East Gerudo Chasm
 East Gerudo Ruins
+East Gerudo Ruins Cave
+East Gerudo Sky Archipelago
+East Hebra Sky Archipelago
+East Hill
+East Hill Chasm
 East Passage
 East Post Ruins
 East Reservoir Lake
+East Restaurant Cave
 East Sokkala Bridge
+Ebon Canyon Mine
+Eknupup Lightroot
+Ekochiu Shrine
+Eldin Canyon Skyview Tower
+Eldin Dark Skeleton
 Eldin Great Skeleton
-Eldin Tower
-Etsu Korima Shrine
+Eldin Sky Archipelago
+Elma Knolls Chasm
+Elma Knolls Well
+Emergency Shelter
+En-oma Shrine
+Eshos Shrine
+Eutoum Shrine
 Eventide Island
+Eventide Island Cave
+Eventide Island Chasm
 Exchange Ruins
-Faron Tower
+Faloraa Canyon Mine
+Faron Sky Archipelago
 Faron Woods
+Finra Woods Excavation Site
 First Gatehouse
 Flight Range
+Floating Coliseum
+Floating Scales Island
 Floret Sandbar
 Floria Bridge
+Floria Canyon Mine
+Floria River Upstream Excavation
+Foothill Monster Den
 Foothill Stable
-Footrace Check-In
+Foothill Stable Well
+Forest Coliseum
+Forest of Time Chasm
+Forgotten Foundation
 Forgotten Temple
 Fort Hateno
+Fort Hateno Cave
+Ga-ahisas Shrine
+Gadohsi Lightroot
+Ganos Shrine
+Gasas Shrine
+Gataharak Lightroot
+Gatakis Shrine
+Gatanisis Shrine
 Gatepost Town Ruins
-Gee Ha'rah Shrine
+Gedihcayam Lightroot
+Gemimik Shrine
+Gerudo Canyon Mine
 Gerudo Canyon Pass
+Gerudo Canyon Skyview Tower
 Gerudo Canyon Stable
+Gerudo Canyon Well
+Gerudo Dark Skeleton
 Gerudo Desert Gateway
 Gerudo Great Skeleton
-Gerudo Tower
+Gerudo Highlands Skyview Tower
+Gerudo Sanctuary
+Gerudo Summit Chasm
 Gerudo Town
+Gerudo Underground Cemetery
+Giant's Grove
+Gikaku Shrine
+Ginner Grove
 Gisa Crater
+Gisa Crater Cave
 Gleeok Bridge
+Gleeok Den
+Gloom's Approach
+Gloom's Lair
+Gloom's Origin
+Goflam's Lavafalls
 Goflam's Secret Hot Spring
-Goma Asaagh Shrine
+Gonatoyrim Lightroot
+Gonatoyros Lightroot
 Goponga Village Ruins
-Gorae Torr Shrine
+Goponga Village Ruins Well
+Gorko Tunnel
 Goron City
+Goronbi River Cave
+Granajh Canyon Mine
+Great Abandoned Central Mine
 Great Fairy Fountain
 Great Plateau
-Great Plateau Tower
+Great Plateau East Chasm
+Great Plateau Foothill Cave
+Great Plateau North Chasm
+Great Plateau South Chasm
+Great Plateau West Chasm
+Great Sky Island
+Grove of Spirits
+Grove of Time
 Guards' Chamber
 Guchini Plain Barrows
+Gustaf Canyon Mine
 Gut Check Rock
-Ha Dahamar Shrine
+Gutanbac Shrine
+Haran Lakefront Well
 Hateno Ancient Tech Lab
-Hateno Tower
 Hateno Village
-Hawa Koth Shrine
+Hateno Village East Well
+Hateno Village North Well
+Hateno Village South Well
+Hateno Village West Well
+Hebra Canyon Mine
+Hebra Dark Skeleton
 Hebra Great Skeleton
-Hebra Tower
+Hebra Headspring Cave
+Hebra Mountains Northwest Cave
+Hebra South Summit Cave
 Hebra Trailhead Lodge
 Helmhead Bridge
-Hia Miu Shrine
+Hickaly Grove
 Highland Stable
-Hila Rao Shrine
+Highland Stable Well
+Hills of Baumer Chasm
+Hills of Baumer Well
+Horon Lagoon Cave
 Horse God Bridge
 Horwell Bridge
+Hudson Construction Site
+Hylia Canyon Mine
 Hyrule Castle
+Hyrule Castle Moat East Chasm
+Hyrule Castle Moat West Chasm
 Hyrule Castle Town Ruins
+Hyrule Castle Town Ruins Well
 Hyrule Cathedral
+Hyrule Field Chasm
+Hyrule Field Skyview Tower
 Hyrule Forest Park
 Hyrule Garrison Ruins
+Hyrule Ridge Chasm
+Iayusus Lightroot
+Icefall Foothills Cave
+Igashuk Shrine
+Igoshon Shrine
+Ihen-a Shrine
+Ijo-o Shrine
+Ikatak Shrine
+Ikatoayam Lightroot
+Imprisoning Chamber
+In-isa Shrine
 Inogo Bridge
-Ishto Soh Shrine
-Ja Baij Shrine
+Irasak Shrine
+Irch Plain Well
+Ishodag Shrine
+Isisim Shrine
+Isle of Rabac Gallery
+Iun-orok Shrine
+Jadukakar Lightroot
 Jeddo Bridge
-Jee Noh Shrine
-Jitan Sa'mi Shrine
-Joloo Nah Shrine
-Kaam Ya'tak Shrine
-Kah Mael Shrine
-Kah Okeo Shrine
-Kah Yah Shrine
+Jikais Shrine
+Jinodok Shrine
+Jiosin Shrine
+Jiotak Shrine
+Jirutagumac Shrine
+Jiukoum Shrine
+Jochi-ihiga Shrine
+Jochi-iu Shrine
+Jochisiu Shrine
+Jogou Shrine
+Jojon Shrine
+Joju-u-u Shrine
+Joku-u Shrine
+Joku-usin Shrine
+Joniu Shrine
+Jonsau Shrine
+Josiu Shrine
+Kadaunar Shrine
+Kahatanaum Shrine
 Kakariko Bridge
 Kakariko Village
-Kam Urog Shrine
-Kamia Omuna Shrine
-Ka'o Makagh Shrine
+Kakariko Village Cave
+Kakariko Village Well
+Kamatukis Shrine
+Kamizun Shrine
 Kara Kara Bazaar
-Katah Chuki Shrine
-Katosa Aug Shrine
-Kay Noh Shrine
-Kaya Wan Shrine
-Kayra Mah Shrine
-Kee Dafunia Shrine
-Keeha Yoog Shrine
-Keh Namut Shrine
-Keive Tala Shrine
-Kema Kosassa Shrine
-Kema Zoos Shrine
-Ke'nai Shakah Shrine
-Keo Ruug Shrine
-Ketoh Wawai Shrine
-Kiah Toza Shrine
-Kihiro Moh Shrine
+Kara Kara Bazaar Well
+Karahatag Shrine
+Kasari Lightroot
+Kataki Lightroot
+Katenim Lightroot
+Katijabis Lightroot
+Kato Lightroot
+Katoij Lightroot
+Kawagom Lightroot
+Kawakanis Lightroot
+Kawakarut Lightroot
+Kawamit Lightroot
+Kawatik Lightroot
+Kawikatisar Lightroot
+Kawiraus Lightroot
+Kawisar Lightroot
+Kawumoro Lightroot
+Kayam Lightroot
+Kegopa Lightroot
+Kikakin Shrine
+Kimakarut Lightroot
+Kimayat Shrine
+Kimimadena Lightroot
+Kimimeg Lightroot
+Kimnaz Lightroot
 King's Study
+Kisihayam Lightroot
+Kisinona Shrine
+Kisomom Lightroot
+Kitawak Shrine
+Kiuyoyou Shrine
+Kogoir Lightroot
+Kohsustu Lightroot
 Kolomo Garrison Ruins
-Korgu Chideh Shrine
+Komo Shoreline Cave
+Kopeeki Drifts Cave
+Koradat Lightroot
+Korakut Lightroot
 Korok Forest
-Korsh O'hu Shrine
-Kuh Takkar Shrine
-Kuhn Sidajj Shrine
-Lake Tower
+Korok Grove
+Korom Lightroot
+Koro-nui Lightroot
+Kotimab Lightroot
+Koukot Plateau Cave
+Kudanisar Shrine
+Kuhsagi Lightroot
+Kurakat Shrine
+Kuzimoy Lightroot
+Kyokugon Shrine
+Kyononis Shrine
+Lake Darman Monster Den
+Lake Ferona Cave
+Lake Hylia Chasm
+Lake Hylia Whirlpool Cave
+Lake Intenoch Cave
+Lake Kilsie Cave
 Lakeside Stable
-Lakna Rokee Shrine
+Lakeside Stable Well
+Lanayru Canyon Mine
 Lanayru Promenade
 Lanayru Road - East Gate
 Lanayru Road - West Gate
-Lanayru Tower
-Lanno Kooh Shrine
+Lanayru Road East Cave
+Lanayru Road South Cave
+Lanayru Sky Archipelago
+Lanayru Wetlands Chasm
+Lanayru Wetlands Well
+Left-Arm Depot
+Left-Leg Depot
 Library
+Lightcast Island
+Lindor Canyon Mine
+Lindor's Brow Cave
+Lindor's Brow Skyview Tower
 Little Twin Bridge
+Lizard's Burrow
 Lockup
+Lomei Depths Labyrinth
+Lomei Labyrinth Chasm
 Lomei Labyrinth Island
+Lomei Sky Labyrinth
+Lone Island Coliseum
+Lookout Landing
+Lookout Landing Skyview Tower
+Lookout Landing Well
 Lost Woods
+Lower Spectacle Rock Cave
+Lucky Clover Gazette
 Lurelin Village
+Lurelin Village Well
+Luto's Channel
 Luto's Crossing
-Maag Halan Shrine
-Maag No'rah Shrine
 Mabe Village Ruins
-Mah Eliya Shrine
-Maka Rah Shrine
+Mabe Village Ruins Well
+Madorna Canyon Mine
+Makasura Shrine
+Makurukis Shrine
 Malanya Spring
 Manhala Bridge
+Maoikes Shrine
+Mapla Point Cave
+Marakuguc Shrine
+Marari-in Shrine
 Maritta Exchange Ruins
+Maritta Exchange Ruins Well
 Maw of Death Mountain
-Mezza Lo Shrine
-Mijah Rokee Shrine
+Mayachideg Shrine
+Mayachin Shrine
+Mayahisik Shrine
+Mayak Shrine
+Mayam Shrine
+Mayamats Shrine
+Mayanas Shrine
+Mayaotaki Shrine
+Mayasiar Shrine
+Mayatat Shrine
+Mayaumekis Shrine
+Mayausiy Shrine
+Meadela's Mantle Cave
+Meda Canyon Mine
+Meda Lavafalls
+Meda Mountain Chasm
+Midla Grove
+Migo-o Lightroot
+Mihcihc Lightroot
 Military Training Camp
-Mirro Shaz Shrine
-Misae Suma Shrine
-Mo'a Keet Shrine
+Mimufis Lightroot
+Minetak Shrine
+Mini Stable
+Mining Cave
+Minshi Grove
+Minshi Woods Chasm
+Mipha Court
+Miryotanog Shrine
+Misisi Lightroot
 Moat Bridge
-Mogg Latan Shrine
-Monya Toma Shrine
+Mogawak Shrine
+Mogisari Shrine
+Momosik Shrine
 Moor Garrison Ruins
-Mounted Archery Camp
-Mozo Shenno Shrine
-Muwo Jeem Shrine
-Myahm Agana Shrine
-Namika Ozz Shrine
-Ne'ez Yohma Shrine
-Noe Rajee Shrine
+Moor Garrison Ruins Well
+Morok Shrine
+Moshapin Shrine
+Motsusis Shrine
+Mount Daphnes Well
+Mount Drena Foothill Cave
+Mount Dunsel Cave
+Mount Floria Cave
+Mount Gustaf Well
+Mount Lanayru Skyview Tower
+Mount Nabooru Cave
+Mount Nabooru South Cave
+Mount Nabooru Well
+Muihcoro Lightroot
+Muokuij Lightroot
+Muotue Lightroot
+Musanokir Shrine
+Mustis Lightroot
+Mustuto Lightroot
+Mu-ufatur Lightroot
+Mu-ustust Lightroot
+Muzasu Lightroot
+Mystathi's Shelf Cave
+Nabahi-ikat Lightroot
+Nabooru Canyon Mine
+Nachoyah Shrine
+Napanos Lightroot
+Narusis Lightroot
+Naydra Snowfield Chasm
+Necluda Sky Archipelago
+Netamnet Lightroot
+Netinet Lightroot
+New Serenne Stable
+New Serenne Stable Well
+Nihcayam Lightroot
+Ni-iraram Lightroot
+Nikakik Lightroot
+Nikohsi Lightroot
+Ninjis Shrine
+Nipahsom Lightroot
+Nisoij Lightroot
+Niuzimod Lightroot
+Nogukoyk Lightroot
+Nojoj Lightroot
+North Akkala Beach Cave
+North Akkala Sky Archipelago
+North Biron Snowshelf Cave
+North Gerudo Ruins
+North Gerudo Sky Archipelago
+North Hyrule Plain Cave
+North Hyrule Sky Archipelago
+North Lomei Castle Top Floor
+North Lomei Chasm
+North Lomei Depths Labyrinth
 North Lomei Labyrinth
+North Necluda Sky Archipelago
+North Tabantha Sky Archipelago
 Northern Icehouse
-Noya Neha Shrine
+Nouda Shrine
+Nupisoyuat Lightroot
+Nuzimak Lightroot
+Oakle's Navel Cave
+Oasis Source
 Observation Room
-Oman Au Shrine
+Octorok Lake
+O-ogim Shrine
 Oren Bridge
+Oren Bridge Cave
+Orochium Shrine
+Oromuwak Shrine
 Orsedd Bridge
+Oshozan-u Shrine
+Otak Shrine
+Otutsum Shrine
 Outpost Ruins
+Outskirt Hill Well
 Outskirt Stable
-Owa Daim Shrine
+Outskirt Stable Well
 Owlan Bridge
+Oyimay Lightroot
+Pagos Woods Excavation Site
 Palmorae Ruins
-Pondo's Lodge
+Pappetto Grove
+Passeri Greenbelt Cave
+Pico Pond Cave
+Pikida Stonegrove Northwest Cave
+Pikida Stonegrove Skyview Tower
+Pit Cave
+Plains Bargainer Statue
+Ploymus Canyon Mine
+Ploymus Mountain Cave
+Pondside Cave
+Popla Foothills Excavation Site
+Popla Foothills North Well
+Popla Foothills Skyview Tower
+Popla Foothills South Well
 Princess Zelda's Room
 Princess Zelda's Study
+Pristine Sanctum
 Proxim Bridge
-Pumaag Nitae Shrine
-Qaza Tokki Shrine
-Qua Raym Shrine
-Qukah Nata Shrine
-Raqa Zunzo Shrine
+Puffer Beach Overhead Cave
+Pupunke Shrine
+Quicksand Lake Cave
+Rabella Wetlands Skyview Tower
+Rakakudaj Shrine
+Rakashog Shrine
+Ralis Channel
+Ramobnukas Lightroot
+Ranch Ruins Cave
+Rasinaduk Lightroot
+Rasitakiwak Shrine
+Rasiwak Shrine
+Rassla Lake Cave
+Rauru Hillside Cave
 Rauru Settlement Ruins
+Rauru Settlement Ruins Well
 Rebonae Bridge
-Ree Dahee Shrine
-Ridgeland Tower
-Rin Oyaa Shrine
-Rinu Honika Shrine
-Ritaag Zumo Shrine
-Rito Stable
+Rebonae Bridge Cave
+Rebonae Bridge Well
+Ren-iz Shrine
+Reservoir Lakefront Cavern
+Retsam Forest Cave
+Retsam Grove
+Rhoam Canyon Mine
+Right-Arm Depot
+Right-Leg Depot
+Rikoka Hills Well
+Rikonasum Lightroot
+Ring Ruins
+Riogok Shrine
+Rising Island Chain
+Rist Mine
 Rito Village
+Rito Village Chasm
+River of the Dead Waterfall Cave
 Riverside Stable
-Rohta Chigah Shrine
-Rok Uwog Shrine
-Rona Kachta Shrine
-Rota Ooh Shrine
+Riverside Stable Well
+Robred Dropoff Cave
+Rodai Lakefront Tunnel
+Rok Grove
+Room of Awakening
+Rospro Pass Cave
+Rospro Pass Skyview Tower
+Rotsumamu Shrine
+Rowan Plain Well
 Royal Ancient Lab Ruins
-Rucco Maag Shrine
-Ruvo Korbah Shrine
-Saas Ko'sah Shrine
-Sacred Ground Ruins
+Royal Hidden Passage
+Rozudo Canyon Mine
+Runakit Shrine
+Rutafu-um Shrine
+Ruto Canyon Mine
+Sage Temple Cave
 Sage Temple Ruins
-Sah Dahaj Shrine
+Sahasra Slope Cave
+Sahasra Slope Skyview Tower
+Sahirow Shrine
+Sakunbomar Shrine
 Sanctum
-Sand-Seal Rally
+Sand-Seal Rental Shop
 Sanidin Park Ruins
 Sarjon Bridge
-Sasa Kai Shrine
-Sato Koda Shrine
+Sarjon Woods Cave
+Sasag Lightroot
+Satori Mountain Cave
+Satori Mountain Foothill Cave
+Scorching Coliseum
+Secluded Coliseum
 Second Gatehouse
+Secret Spring of Revival
+Sekioam Lightroot
 Selmie's Spot
-Serenne Stable
-Sha Gehma Shrine
-Sha Warvo Shrine
-Shada Naw Shrine
+Sepapa Shrine
+Serutabomac Shrine
 Shadow Hamlet Ruins
-Shae Katha Shrine
-Shae Loya Shrine
-Shae Mo'sah Shrine
-Shai Utoh Shrine
-Shai Yota Shrine
-Sharo Lun Shrine
-Shee Vaneer Shrine
-Shee Venath Shrine
-Sheem Dagoze Shrine
-Sheh Rata Shrine
+Shadow Hamlet Ruins Well
+Sherfin's Lavafalls
 Sherfin's Secret Hot Spring
-Shira Gomar Shrine
-Sho Dantu Shrine
-Shoda Sah Shrine
-Shoqa Tatone Shrine
-Shora Hah Shrine
 Shrine of Resurrection
+Siakij Lightroot
+Sibajitak Shrine
+Sifumim Shrine
+Sihajog Shrine
+Sijnin Lightroot
+Sijotu Lightroot
+Sikatag Lightroot
+Sikukuu Shrine
+Sikurukam Lightroot
+Sikutamak Lightroot
+Simosiwak Shrine
+Sinakawak Shrine
+Sinatanika Shrine
+Sinonoyk Lightroot
+Sisinatag Lightroot
+Sisuran Shrine
+Sisustom Lightroot
+Sitsum Shrine
+Siwakama Shrine
+Siyamotsus Shrine
+Skull Lake Cave
+Skull Lake Chasm
+Sky Mine
 Snowfield Stable
-Soh Kofi Shrine
+Snowfield Stable Well
+Sohse Lightroot
 Sokkala Bridge
+Sokkala Sky Archipelago
+Sonapan Shrine
+So-oaw Lightroot
+Soryotanog Shrine
+South Akkala Plains Chasm
 South Akkala Stable
+South Akkala Stable Well
+South Eldin Sky Archipelago
+South Gerudo Cave
+South Hebra Sky Archipelago
+South Hyrule Sky Archipelago
+South Lanayru Sky Archipelago
+South Lomei Castle Top Floor
+South Lomei Chasm
+South Lomei Depths Labyrinth
 South Lomei Labyrinth
+South Nabi Lake Well
+South Necluda Sky Archipelago
 Southern Mine
+Southern Oasis Training Area
+Spectacle Rock Cave
+Spirit Temple
 Spring of Courage
 Spring of Power
 Spring of Wisdom
+Stakijat Lightroot
+Stalry Plateau Cave
+Stamayam Lightroot
+Starview Island
 Statue of the Eighth Heroine
+Statue of the Eighth Heroine Cave
+Statue of the Eighth Heroine Room
 Stolock Bridge
+Sturnida Lavafalls
 Sturnida Secret Hot Spring
-Suma Sahma Shrine
+Sturnida Springs Cave
+Suariwak Shrine
+Susub Shrine
+Susuyai Shrine
+Taafei Hill Cave
+Tabahl Grove
+Tabahl Woods Cave
+Tabahl Woods Well
 Tabantha Bridge Stable
+Tabantha Bridge Stable Well
 Tabantha Great Bridge
-Tabantha Tower
+Tabantha Hills Cave
+Tabantha Sky Archipelago
 Tabantha Village Ruins
-Tah Muhl Shrine
-Tahno O'ah Shrine
-Takama Shiri Shrine
-Ta'loh Naeg Shrine
-Tanagar Canyon Course
+Tabantha Village Ruins Well
+Tadarok Shrine
+Tajikats Shrine
+Takaruk Lightroot
+Taki-ihaban Shrine
+Talonto Peak Cave
+Tamio River Downstream Cave
+Tanagar Canyon East Cave
+Tanagar Canyon West Cave
+Taninoud Shrine
+Taran Canyon Mine
+Tarm Point Cave
 Tarrey Town
-Tawa Jinn Shrine
+Tarrey Town Tunnel
+Tatayam Lightroot
+Taunhiy Shrine
+Tauyosipun Shrine
+Tayamik Lightroot
 Temple of Time
-Tena Ko'sah Shrine
+Temple of Time Ruins
+Tenbez Shrine
+Teniten Shrine
+Tenmaten Shrine
 Thims Bridge
-Tho Kayu Shrine
+Thunderhead Isles
 Thundra Plateau
-To Quomo Shrine
-Toh Yahsa Shrine
-Toto Sah Shrine
-Tu Ka'loh Shrine
-Tutsuwa Nima Shrine
-Voo Lota Shrine
-Wahgo Katta Shrine
-Warbler's Nest
-Wasteland Tower
+Thundra Plateau Cave
+Thyphlo Ruins
+Thyphlo Ruins Skyview Tower
+Tikanur Lightroot
+Timawak Shrine
+Tingel Island Chasm
+Tobio's Hollow Cave
+Tobio's Hollow Chasm
+Tokiy Shrine
+Tsutsu-um Shrine
+Tuft Canyon Mine
+Tukarok Shrine
+Turakamik Shrine
+Turakawak Shrine
+Uasnoj Lightroot
+Ubota Point Cave
+Uihcoke Lightroot
+Ui-ihcoj Lightroot
+Uinoj Lightroot
+Uisihcoj Lightroot
+Ukoojisi Shrine
+Ukouh Shrine
+Ulri Canyon Mine
+Ulri Mountain Skyview Tower
+Ulria Grotto East Cave
+Ulria Grotto South Cave
+Ultra Ball Haul Check-In
+Umamustor Lightroot
+U-nazohso Lightroot
+Uogoj Lightroot
+Uoyoyuik Lightroot
+Upland Zorana Byroad
+Upland Zorana Foothill Cave
+Upland Zorana Mountainside Cave
+Upland Zorana Skyview Tower
+Upland Zorana Summit Cave
+Usazum Shrine
+Usukaz Lightroot
+Utojis Shrine
+Utsushok Shrine
+Uukukis Lightroot
+U-u-ujoj Lightroot
+Valley of Silent Statues
+Valor Island
+Walnot Canyon Mine
+Walnot Mountain Cave
+Wao-os Shrine
 Water Reservoir
+Wellspring Island
+Wellspring of Courage
+Wellspring of Power
+Wellspring of Wisdom
+West Gerudo Underground Ruins
+West Hebra Sky Archipelago
+West Hyrule Sky Archipelago
+West Lake Totori Cave
+West Necluda Sky Archipelago
 West Passage
+West Restaurant Cave
 West Sokkala Bridge
 Wetland Stable
+Wetland Stable South Well
+Wetland Stable Well
+Whistling Hill Cave
 Woodland Stable
-Woodland Tower
-Ya Naga Shrine
-Yah Rin Shrine
+Woodland Stable Well
+Worihas Lightroot
+Yamiyo Shrine
+Yansamin Shrine
+Yiga Blademaster Station
 Yiga Clan Hideout
-Yowaka Ita Shrine
-Zalta Wa Shrine
-Ze Kasho Shrine
+Yiga Clan Hideout Chasm
+Yiga Clan Maritta Branch
+Yikot Lightroot
+Yisuayam Lightroot
+Yomizuk Shrine
+YunoboCo HQ
+YunoboCo HQ East Cave
+YunoboCo HQ South Cave
+Zakusu Shrine
+Zanmik Shrine
+Zauz Island Well
+Zelda's Secret Well
+Zi-ner Lightroot
 Zonai Ruins
+Zonaite Forge Island
 Zora's Domain
-Zuna Kai Shrine

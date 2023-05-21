@@ -184,7 +184,7 @@ std::string LocationDetector::GetLocation(const cv::Mat& game_img)
 	if (ret[ret.size() - 1] == '\n')
 		ret = ret.substr(0, ret.size() - 1);
 
-	return ret;
+	return FindBestLocationMatch(ret);
 }
 
 LocationDetector::~LocationDetector()
