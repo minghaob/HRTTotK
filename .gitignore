@@ -1,10 +1,9 @@
 /.vs/
 /x64/
-/HRT.vcxproj.user
-/HRT.args.json
+/HRTTotK.vcxproj.user
+/HRTTotK.args.json
 *.pdb
 *.exe
 *.dll
 /bin/run.bat
 /ffmpeg-master-latest-win64-lgpl-shared
-/HRTTotK.args.json
