@@ -78,7 +78,7 @@ void AnalyseVideo(const std::string &video_file, cv::Rect game_rect, int frame_s
 				double sec_lf;
 				int frame_in_sec = int(std::modf(cur_frame / fps, &sec_lf) * fps + 0.5);
 				int sec = int(sec_lf);
-				sprintf_s(buf, "[%6d] %02d:%02d:%02d.%02d", cur_frame, sec / 3600, sec % 3600 / 60, sec % 60 , frame_in_sec);
+				sprintf_s(buf, "[%7d] %02d:%02d:%02d.%02d", cur_frame, sec / 3600, sec % 3600 / 60, sec % 60 , frame_in_sec);
 			}
 
 			g_server.SetLastImage(frame(game_rect));
@@ -143,7 +143,7 @@ void AnalyseLiveStream(int brightness_threshold, int bright_pixel_ratio_low, int
 				os << std::put_time(std::localtime(&time), "%Y-%m-%d %H:%M:%S") << '.' << std::setfill('0') << std::setw(3) << ms.count();
 #pragma warning(pop)
 
-				sprintf_s(buf, "[%6d] %s", cur_frame, os.str().c_str());
+				sprintf_s(buf, "[%7d] %s", cur_frame, os.str().c_str());
 			}
 
 			g_server.SetLastImage(mat);

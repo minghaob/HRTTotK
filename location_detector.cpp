@@ -111,11 +111,12 @@ std::string LocationDetector::FindBestLocationMatch(const std::string& loc_in)
 
 std::string LocationDetector::GetLocation(const cv::Mat& game_img)
 {
-	// This is the bounding box of the longest location text in the lower left corner of the game screen.
-	constexpr double location_x0 = 0.038461538461;
-	constexpr double location_x1 = 0.502652519893;
-	constexpr double location_y0 = 0.838443396226;
-	constexpr double location_y1 = 0.926886792452;
+	// This is the bounding box of the location text in the lower left corner of the game screen.
+	// For really long location names (e.g. North Hyrule Sky Archipelago), the game will resize them to fit in this box.
+	constexpr double location_x0 = 50 / 1280.0;
+	constexpr double location_x1 = 670 / 1280.0;
+	constexpr double location_y0 = 570 / 720.0;
+	constexpr double location_y1 = 625 / 720.0;
 
 	// get the bounding box in rows / cols
 	uint32_t location_col0 = uint32_t(location_x0 * double(game_img.cols) + 0.5);
@@ -183,7 +184,7 @@ std::string LocationDetector::GetLocation(const cv::Mat& game_img)
 	if (ret[ret.size() - 1] == '\n')
 		ret = ret.substr(0, ret.size() - 1);
 
-	return FindBestLocationMatch(ret);
+	return ret;
 }
 
 LocationDetector::~LocationDetector()

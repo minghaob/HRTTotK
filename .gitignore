@@ -7,3 +7,4 @@
 *.dll
 /bin/run.bat
 /ffmpeg-master-latest-win64-lgpl-shared
+/HRTTotK.args.json
